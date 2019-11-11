@@ -1,0 +1,16 @@
+C:\Users\yuanj\source\repos\CFAtest\CFA.Services\bin\Debug\netstandard2.0\CFA.Services.deps.json
+C:\Users\yuanj\source\repos\CFAtest\CFA.Services\bin\Debug\netstandard2.0\CFA.Services.dll
+C:\Users\yuanj\source\repos\CFAtest\CFA.Services\obj\Debug\netstandard2.0\CFA.Services.csprojAssemblyReference.cache
+C:\Users\yuanj\source\repos\CFAtest\CFA.Services\obj\Debug\netstandard2.0\CFA.Services.AssemblyInfoInputs.cache
+C:\Users\yuanj\source\repos\CFAtest\CFA.Services\obj\Debug\netstandard2.0\CFA.Services.AssemblyInfo.cs
+C:\Users\yuanj\source\repos\CFAtest\CFA.Services\bin\Debug\netstandard2.0\CFA.Services.pdb
+C:\Users\yuanj\source\repos\CFAtest\CFA.Services\obj\Debug\netstandard2.0\CFA.Services.dll
+C:\Users\yuanj\source\repos\CFAtest\CFA.Services\obj\Debug\netstandard2.0\CFA.Services.pdb
+C:\Users\yuanj\source\repos\CFAproject\CFA.Services\bin\Debug\netstandard2.0\CFA.Services.deps.json
+C:\Users\yuanj\source\repos\CFAproject\CFA.Services\bin\Debug\netstandard2.0\CFA.Services.dll
+C:\Users\yuanj\source\repos\CFAproject\CFA.Services\bin\Debug\netstandard2.0\CFA.Services.pdb
+C:\Users\yuanj\source\repos\CFAproject\CFA.Services\obj\Debug\netstandard2.0\CFA.Services.csprojAssemblyReference.cache
+C:\Users\yuanj\source\repos\CFAproject\CFA.Services\obj\Debug\netstandard2.0\CFA.Services.AssemblyInfoInputs.cache
+C:\Users\yuanj\source\repos\CFAproject\CFA.Services\obj\Debug\netstandard2.0\CFA.Services.AssemblyInfo.cs
+C:\Users\yuanj\source\repos\CFAproject\CFA.Services\obj\Debug\netstandard2.0\CFA.Services.dll
+C:\Users\yuanj\source\repos\CFAproject\CFA.Services\obj\Debug\netstandard2.0\CFA.Services.pdb
